@@ -4,6 +4,7 @@
 		<TargetFramework>net5.0</TargetFramework>
 		<LangVersion>10</LangVersion>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<Version>0.0.1.0</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
